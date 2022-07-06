@@ -37,7 +37,7 @@ section {
 }
 
 .top-container .first-button {
-    width: 150px;
+    width: 200px;
     display: block;
     background-color: red;
     font-size: 24px;
@@ -107,7 +107,7 @@ h3.active {
 }
 
 .second-button {
-    width: 150px;
+    width: 200px;
     display: block;
     background-color: red;
     font-size: 24px;
@@ -177,16 +177,18 @@ h3.active {
 .footer-container {
     margin-top: 100px;
     height: 150px;
-    background-color: #7C3E66;
+    background-color: black;
 }
 
 .footer-top {
+    color: tomato;
     padding-top: 30px;
     font-size: bold;
     text-align: center;
 }
 
 .footer-bottom {
+    color: tomato;
     text-align: center;
     font-size: bold;
 
